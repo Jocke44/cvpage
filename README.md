@@ -58,9 +58,9 @@ cd html-cv
  - An English version of the CV webpage is in progress. This will provide a fully translated version for international audiences and recruiters. Stay tuned for updates!
 
 ### 🛠️ Technologies Used
-    HTML5
-    CSS3
-    JavaScript (for Dark Mode)
-    GitHub Pages / Netlify (for hosting)
-    📄 Live Demo
-    🔗 View the CV Online
+   HTML5
+   CSS3
+   JavaScript (for Dark Mode)
+   GitHub Pages / Netlify (for hosting)
+   📄 Live Demo
+   🔗 View the CV Online
