@@ -17,42 +17,42 @@ This is a simple, responsive HTML-based CV for **Joakim Svan**. The CV is struct
 ## 🚀 How to Use
 
 ### 1️⃣ Clone the Repository
-    ```bash
-    git clone https://github.com/yourgithubprofile/html-cv.git
-    cd html-cv
-    ```
+```bash
+git clone https://github.com/yourgithubprofile/html-cv.git
+cd html-cv
+```
 
 ### 2️⃣ Edit Your Details
-    - Open index.html and replace placeholders with your email, GitHub, and LinkedIn links.
-    - Modify work experience, skills, and education as needed.
+- Open index.html and replace placeholders with your email, GitHub, and LinkedIn links.
+- Modify work experience, skills, and education as needed.
 
 ### 3️⃣ View Locally
-    - Open index.html in a web browser.
+- Open index.html in a web browser.
 
 ### 4️⃣ Deploy Online
 
-    **Option 1: GitHub Pages.**
+**Option 1: GitHub Pages.**
 
-    1. Push the repository to GitHub.
-    2. Go to Settings > Pages and set the source to main or gh-pages branch.
-    3. Your CV will be live at https://yourgithubusername.github.io/html-cv/.
+1. Push the repository to GitHub.
+2. Go to Settings > Pages and set the source to main or gh-pages branch.
+3. Your CV will be live at https://yourgithubusername.github.io/html-cv/.
 
-    **Option 2: Netlify**
-    1. Drag and drop your project folder into Netlify.
-    2. Get a free domain from Netlify or link your own.
+**Option 2: Netlify**
+1. Drag and drop your project folder into Netlify.
+2. Get a free domain from Netlify or link your own.
 
 ### 🎨 Dark Mode 🌙
-    **The Dark Mode feature is implemented using:**
+**The Dark Mode feature is implemented using:**
 
-    - CSS Variables to define colors for light and dark themes.
-    - JavaScript (script.js) to toggle Dark Mode and save user preference in Local Storage.
-    - A toggle button in index.html to switch themes.
+- CSS Variables to define colors for light and dark themes.
+- JavaScript (script.js) to toggle Dark Mode and save user preference in Local Storage.
+- A toggle button in index.html to switch themes.
 
 ### 🔹 How It Works:
 
-    - When a user clicks the "🌙 Dark Mode" button, the website switches to Dark Mode.
-    - The dark mode preference is saved in Local Storage.
-    - The next time the user visits, the site remembers their selection.
+- When a user clicks the "🌙 Dark Mode" button, the website switches to Dark Mode.
+- The dark mode preference is saved in Local Storage.
+- The next time the user visits, the site remembers their selection.
 
 ### 🌍 Upcoming: English Version
  - An English version of the CV webpage is in progress. This will provide a fully translated version for international audiences and recruiters. Stay tuned for updates!
